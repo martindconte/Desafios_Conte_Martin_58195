@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Producto 1",
+        "description": "Descripción del producto 1",
+        "price": 1200,
+        "thumbnail": "/img/img1",
+        "code": "ABCF",
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "title": "Producto 2",
+        "description": "Descripción del producto 2",
+        "price": 2400,
+        "thumbnail": "/img/img2",
+        "code": "DEFG",
+        "stock": 20
+    },
+    {
+        "id": 3,
+        "title": "Producto 3",
+        "description": "Descripción del producto 3",
+        "price": 3600,
+        "thumbnail": "/img/img3",
+        "code": "HIJK",
+        "stock": 30
+    },
+    {
+        "id": 4,
+        "title": "Producto 4",
+        "description": "Descripción del producto 4",
+        "price": 4800,
+        "thumbnail": "/img/img4",
+        "code": "LMNO",
+        "stock": 40
+    },
+    {
+        "id": 5,
+        "title": "Producto 5",
+        "description": "Descripción del producto 5",
+        "price": 6000,
+        "thumbnail": "/img/img5",
+        "code": "PQRS",
+        "stock": 50
+    },
+    {
+        "id": 6,
+        "title": "Producto 6",
+        "description": "Descripción del producto 6",
+        "price": 7200,
+        "thumbnail": "/img/img6",
+        "code": "TUV",
+        "stock": 60
+    },
+    {
+        "id": 7,
+        "title": "Producto 7",
+        "description": "Descripción del producto 7",
+        "price": 8400,
+        "thumbnail": "/img/img7",
+        "code": "WXYZ",
+        "stock": 70
+    },
+    {
+        "id": 8,
+        "title": "Producto 8",
+        "description": "Descripción del producto 8",
+        "price": 9600,
+        "thumbnail": "/img/img8",
+        "code": "ABCDEF",
+        "stock": 80
+    },
+    {
+        "id": 9,
+        "title": "Producto 9",
+        "description": "Descripción del producto 9",
+        "price": 10800,
+        "thumbnail": "/img/img9",
+        "code": "GHIJKL",
+        "stock": 90
+    },
+    {
+        "id": 10,
+        "title": "Producto 10",
+        "description": "Descripción del producto 10",
+        "price": 12000,
+        "thumbnail": "/img/img10",
+        "code": "MNOPQR",
+        "stock": 100
+    }
+]
